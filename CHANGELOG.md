@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file. This projec
 
 ## Unreleased
 
+## [5.3.0] - 2026-07-12
+
+### Fixed
+
+- [#328](https://github.com/laravel-json-api/laravel/pull/328) Fix undefined variable error in resource registrar.
+
 ### Removed
 
 - Dropped support for Laravel 11, as it is no longer receiving security updates. The minimum Laravel version is now 12.
